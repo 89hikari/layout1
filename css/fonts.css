@@ -1,0 +1,9 @@
+@font-face{
+	font-family: "beb";
+	src: url("../fonts/beb.woff") format("woff"), url("../fonts/beb.woff2") format("woff2")
+}
+
+@font-face{
+	font-family: "sans";
+	src: url("../fonts/sans.woff") format("woff"), url("../fonts/sans.woff2") format("woff2")
+}
